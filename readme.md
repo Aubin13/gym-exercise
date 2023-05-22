@@ -35,8 +35,7 @@ DASH@DASH-PC MINGW64 ~/Documents/Git/the-gym-rwanda-pt/exercise1 (main)
 $ git add .
 
 DASH@DASH-PC MINGW64 ~/Documents/Git/the-gym-rwanda-pt/exercise1 (main)
-$ git status'
-> ^C
+$ git status
 
 DASH@DASH-PC MINGW64 ~/Documents/Git/the-gym-rwanda-pt/exercise1 (main)
 $ git status
