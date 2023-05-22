@@ -16,37 +16,10 @@ DASH@DASH-PC MINGW64 ~/Documents/Git/the-gym-rwanda-pt/exercise1 (main)
 $ mv "README.md" "readme.md"
 
 DASH@DASH-PC MINGW64 ~/Documents/Git/the-gym-rwanda-pt/exercise1 (main)
-$ git status
-On branch main
-
-No commits yet
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-        readme.md
-
-nothing added to commit but untracked files present (use "git add" to track)
-
-DASH@DASH-PC MINGW64 ~/Documents/Git/the-gym-rwanda-pt/exercise1 (main)
-$ git add all
-fatal: pathspec 'all' did not match any files
-
-DASH@DASH-PC MINGW64 ~/Documents/Git/the-gym-rwanda-pt/exercise1 (main)
 $ git add .
 
 DASH@DASH-PC MINGW64 ~/Documents/Git/the-gym-rwanda-pt/exercise1 (main)
 $ git status
-
-DASH@DASH-PC MINGW64 ~/Documents/Git/the-gym-rwanda-pt/exercise1 (main)
-$ git status
-On branch main
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-        new file:   readme.md
-
 
 DASH@DASH-PC MINGW64 ~/Documents/Git/the-gym-rwanda-pt/exercise1 (main)
 $ git remote add origin https://github.com/Aubin13/gym-exercise.git
@@ -107,3 +80,5 @@ remote:
 To https://github.com/Aubin13/gym-exercise.git
  * [new branch]      dev -> dev
 ```
+
+
